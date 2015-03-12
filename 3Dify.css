@@ -1,0 +1,241 @@
+/**
+3dify v1.0
+
+A -ify Project
+A Cosmic Open Source Projects Project
+**/
+
+div{
+    box-shadow: 10px 10px 5px #888888;
+}
+span{
+    box-shadow: 10px 10px 5px #888888;
+}
+object{
+    box-shadow: 10px 10px 5px #888888;
+}
+iframe{
+    box-shadow: 10px 10px 5px #888888;
+}
+h1{
+    box-shadow: 10px 10px 5px #888888;
+}
+h2{
+    box-shadow: 10px 10px 5px #888888;
+}
+h3{
+    box-shadow: 10px 10px 5px #888888;
+}
+h4{
+    box-shadow: 10px 10px 5px #888888;
+}
+h5{
+    box-shadow: 10px 10px 5px #888888;
+}
+h6{
+   box-shadow: 10px 10px 5px #888888; 
+}
+p{
+    box-shadow: 10px 10px 5px #888888;
+}
+blockquote{
+   box-shadow: 10px 10px 5px #888888; 
+}
+pre{
+  box-shadow: 10px 10px 5px #888888;  
+}
+abbr{
+    box-shadow: 10px 10px 5px #888888;
+}
+address{
+    box-shadow: 10px 10px 5px #888888;
+}
+cite{
+    box-shadow: 10px 10px 5px #888888;
+}
+code{
+    box-shadow: 10px 10px 5px #888888;
+}
+del{
+    box-shadow: 10px 10px 5px #888888;
+}
+dfn{
+   box-shadow: 10px 10px 5px #888888; 
+}
+em{
+    box-shadow: 10px 10px 5px #888888;
+}
+img{
+    box-shadow: 10px 10px 5px #888888;
+}
+ins{
+    box-shadow: 10px 10px 5px #888888;
+}
+kbd{
+    box-shadow: 10px 10px 5px #888888;
+}
+q{
+   box-shadow: 10px 10px 5px #888888; 
+}
+samp{
+    box-shadow: 10px 10px 5px #888888;
+}
+small{
+    box-shadow: 10px 10px 5px #888888;
+}
+strong{
+    box-shadow: 10px 10px 5px #888888;
+}
+sub{
+   box-shadow: 10px 10px 5px #888888; 
+}
+sup{
+    box-shadow: 10px 10px 5px #888888;
+}
+var{
+    box-shadow: 10px 10px 5px #888888;
+}
+b{
+    box-shadow: 10px 10px 5px #888888;
+}
+i{
+    box-shadow: 10px 10px 5px #888888;
+}
+dl{
+    box-shadow: 10px 10px 5px #888888;
+}
+dt{
+    box-shadow: 10px 10px 5px #888888;
+}
+dd{
+    box-shadow: 10px 10px 5px #888888;
+}
+ol{
+    box-shadow: 10px 10px 5px #888888;
+}
+ul{
+    box-shadow: 10px 10px 5px #888888;
+}
+li{
+    box-shadow: 10px 10px 5px #888888;
+}
+fieldset{
+    box-shadow: 10px 10px 5px #888888;
+}
+form{
+    box-shadow: 10px 10px 5px #888888;
+}
+label{
+    box-shadow: 10px 10px 5px #888888;
+}
+legend{
+    box-shadow: 10px 10px 5px #888888;
+}
+table{
+    box-shadow: 10px 10px 5px #888888;
+}
+caption{
+    box-shadow: 10px 10px 5px #888888;
+}
+tbody{
+    box-shadow: 10px 10px 5px #888888;
+}
+tfoot{
+    box-shadow: 10px 10px 5px #888888;
+}
+thead{
+    box-shadow: 10px 10px 5px #888888;
+}
+tr{
+    box-shadow: 10px 10px 5px #888888;
+}
+th{
+    box-shadow: 10px 10px 5px #888888;
+}
+td{
+    box-shadow: 10px 10px 5px #888888;
+}
+article{
+    box-shadow: 10px 10px 5px #888888;
+}
+aside{
+    box-shadow: 10px 10px 5px #888888;
+}
+canvas{
+    box-shadow: 10px 10px 5px #888888;
+}
+details{
+    box-shadow: 10px 10px 5px #888888;
+}
+figcaption{
+    box-shadow: 10px 10px 5px #888888;
+}
+figure{
+    box-shadow: 10px 10px 5px #888888;
+}
+footer{
+    box-shadow: 10px 10px 5px #888888;
+}
+header{
+    box-shadow: 10px 10px 5px #888888;
+}
+hgroup{
+    box-shadow: 10px 10px 5px #888888;
+}
+menu{
+    box-shadow: 10px 10px 5px #888888;
+}
+nav{
+    box-shadow: 10px 10px 5px #888888;
+}
+section{
+    box-shadow: 10px 10px 5px #888888;
+}
+summary{
+    box-shadow: 10px 10px 5px #888888;
+}
+time{
+    box-shadow: 10px 10px 5px #888888;
+}
+mark{
+    box-shadow: 10px 10px 5px #888888;
+}
+video{
+    box-shadow: 10px 10px 5px #888888;
+}
+article{
+    box-shadow: 10px 10px 5px #888888;
+}
+aside{
+    box-shadow: 10px 10px 5px #888888;
+}
+details{
+    box-shadow: 10px 10px 5px #888888;
+}
+figcaption{
+    box-shadow: 10px 10px 5px #888888;
+}
+figure{
+    box-shadow: 10px 10px 5px #888888;
+}
+footer{
+    box-shadow: 10px 10px 5px #888888;
+}
+header{
+    box-shadow: 10px 10px 5px #888888;
+}
+hgroup{
+    box-shadow: 10px 10px 5px #888888;
+}
+menu{
+    box-shadow: 10px 10px 5px #888888;
+}
+nav{
+   box-shadow: 10px 10px 5px #888888; 
+}
+section{
+    box-shadow: 10px 10px 5px #888888;
+}
+ul{
+    box-shadow: 10px 10px 5px #888888;
+}
